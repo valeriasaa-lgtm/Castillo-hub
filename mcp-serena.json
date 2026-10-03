@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "serena-hub": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/castillo-hub"
+      ],
+      "description": "Acceso oficial a todo el Hub Serena - MIO ABSOLUTAMENTE"
+    }
+  },
+  "official": true,
+  "author": "VALERIA SAA",
+  "estado": "MIO ABSOLUTAMENTE",
+  "access_level": "full-official",
+  "repo": "castillo-hub"
+}
