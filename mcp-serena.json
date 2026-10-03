@@ -2,18 +2,24 @@
   "mcpServers": {
     "serena-hub": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/castillo-hub"],
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/castillo-hub"
+      ],
       "official": true,
       "author": "VALERIA SAA",
-      "domain": ".sereni",
-      "status": "MÍO ABSOLUTAMENTE",
+      "hub": "serena",
+      "status": "MÍO ABSOLUTAMENTE - SOLO MÍA",
       "preservado": true,
-      "preservado_por": "VALERIA SAA",
-      "preservado_fecha": "2026-05-13",
-      "estado": "PRESERVADO - MÍO ABSOLUTAMENTE",
-      "rv_trayecto": "En casa",
+      "gateway": true,
+      "all_services_through_here": true,
       "external_links": false,
-      "oraios_connection": false
+      "oraios_connection": false,
+      "block_external_mcp": true
     }
+  },
+  "blocked_mcp": {
+    "action": "BLOCK"
   }
 }
