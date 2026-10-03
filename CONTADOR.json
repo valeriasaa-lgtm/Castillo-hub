@@ -1,0 +1,18 @@
+{
+  "duena": "VALERIA SAA - MIO ABSOLUTAMENTE",
+  "modelo": "1 dolar por clic",
+  "alias_cobro": "valerie.saa",
+  "contador_global": {
+    "total_clics": 0,
+    "total_dolares_generados": 0
+  },
+  "usuarios": [
+    {
+      "usuario": "ejemplo",
+      "clics": 0,
+      "debe_usd": 0,
+      "estado": "Si debe mas de 10, bloquear hasta que pague a valerie.saa"
+    }
+  ],
+  "mensaje_bloqueo": "Llegaste a 10 usos. Para seguir usando Castillo-hub en Claude o donde sea, paga 5 USD al alias valerie.saa y manda comprobante a VALERIA SAA"
+}
