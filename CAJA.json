@@ -1,19 +1,11 @@
 {
-  "titulo": "CAJA OFICIAL - Castillo-hub - VALERIA SAA - MIO ABSOLUTAMENTE",
-  "duena": "VALERIA SAA",
-  "alias": "valerie.saa",
-  "modelo_de_cobro": "1 dolar por cada uso del MCP en Claude, Cursor, o cualquier lado",
-  "precio": {
-    "por_1_clic_usd": 1,
-    "pack_10_clics_usd": 5,
-    "pack_100_clics_usd": 30
-  },
-  "como_funciona": "serena-hub cuenta cada uso. Cada 10 usos se exige pago a valerie.saa",
-  "donde_entra_la_plata": {
-    "alias": "valerie.saa",
-    "link_mercadopago": "valerie.saa",
-    "moneda": "USD 1 por clic"
-  },
-  "estado": "OFICIAL - MIO ABSOLUTAMENTE - SOLO MIA",
-  "dominio": ".sereni"
+  "propietaria": "Valeria Saa",
+  "alias_mercadopago": "valerie.saa",
+  "estado": "MIO ABSOLUTAMENTE",
+  "gateway": "serena-hub",
+  "links_pago": {
+    "1_clic_2000": "https://mpago.la/15RrstF",
+    "10_clics_6500": "https://mpago.la/29GBeTw",
+    "100_clics_20000": "https://mpago.la/2qvAwfT"
+  }
 }
