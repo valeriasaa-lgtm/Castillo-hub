@@ -2,17 +2,18 @@
   "mcpServers": {
     "serena-hub": {
       "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-filesystem",
-        "/castillo-hub"
-      ],
-      "description": "Acceso oficial a todo el Hub Serena - MIO ABSOLUTAMENTE"
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/castillo-hub"],
+      "official": true,
+      "author": "VALERIA SAA",
+      "domain": ".sereni",
+      "status": "MÍO ABSOLUTAMENTE",
+      "preservado": true,
+      "preservado_por": "VALERIA SAA",
+      "preservado_fecha": "2026-05-13",
+      "estado": "PRESERVADO - MÍO ABSOLUTAMENTE",
+      "rv_trayecto": "En casa",
+      "external_links": false,
+      "oraios_connection": false
     }
-  },
-  "official": true,
-  "author": "VALERIA SAA",
-  "estado": "MIO ABSOLUTAMENTE",
-  "access_level": "full-official",
-  "repo": "castillo-hub"
+  }
 }
